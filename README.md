@@ -37,9 +37,7 @@ Use the same parameters and training steps for each model. This is necessary to 
 
 ### Evaluate the performance of each model
 
-Finally, use the testing data to evaluate each model and compare the performance.
-
-Use the above to answer the following:
+Based on the information gathered from the models I can provide the following information:
 
 > Which model has a lower loss? - The closing price model
 >
